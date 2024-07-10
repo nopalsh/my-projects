@@ -10,5 +10,5 @@ Repositori ini dibuat sebagai arsip pribadi dan portofolio saya. Di sini tersedi
 
 ### 1. Pendaftaran Beasiswa Mahasiswa
 - **Teknologi**: HTML, CSS, JavaScript, Bootstrap, PHP (native), MySQL
-- **Link Proyek**: [Pendaftaran Beasiswa Mahasiswa]([link proyek](https://github.com/nopalsh/my-projects/tree/main/BNSP%20-%20Junior%20Web%20Developer))
+- **Link Proyek**: [Pendaftaran Beasiswa Mahasiswa](https://github.com/nopalsh/my-projects/tree/main/BNSP%20-%20Junior%20Web%20Developer)
 - **Deskripsi**: Website ini dibuat untuk persyaratab sertifikasi BNSP. Berfungsi sebagai platform pendaftaran beasiswa untuk mahasiswa.
