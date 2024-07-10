@@ -10,19 +10,5 @@ Repositori ini dibuat sebagai arsip pribadi dan portofolio saya. Di sini tersedi
 
 ### 1. Pendaftaran Beasiswa Mahasiswa
 - **Teknologi**: HTML, CSS, JavaScript, Bootstrap, PHP (native), MySQL
-- **Link Proyek**: [Pendaftaran Beasiswa Mahasiswa](link proyek)
-- **Deskripsi**:
-  - Website ini dibuat untuk mendukung sertifikasi.
-  - Berfungsi sebagai platform pendaftaran beasiswa untuk mahasiswa.
-  - Dilengkapi dengan fitur login.
-  - Terdapat dua jenis beasiswa: akademik dan non-akademik.
-  - Setiap jenis beasiswa memiliki syarat dan ketentuan berkas yang harus diunggah.
-  - Calon penerima beasiswa dapat mengisi form dan mengunggah berkas yang digabungkan dalam satu file PDF.
-  - Disediakan fitur untuk melacak status penerimaan.
-  - Data pendaftar tersedia untuk dipantau.
-  - Terdapat timeline waktu pendaftaran.
-
-#### Pada Sisi Admin:
-- Tabel Data Pendaftar Beasiswa: memungkinkan admin untuk melihat berkas dan mengubah status penerimaan.
-- Tabel Data Mahasiswa: memungkinkan admin untuk mengedit dan menghapus data mahasiswa.
-- Tabel Data Akun Mahasiswa: memungkinkan admin untuk mengelola akun mahasiswa, termasuk mengedit dan menghapusnya.
+- **Link Proyek**: [Pendaftaran Beasiswa Mahasiswa]([link proyek](https://github.com/nopalsh/my-projects/tree/main/BNSP%20-%20Junior%20Web%20Developer))
+- **Deskripsi**: Website ini dibuat untuk persyaratab sertifikasi BNSP. Berfungsi sebagai platform pendaftaran beasiswa untuk mahasiswa.
