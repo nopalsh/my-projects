@@ -1,10 +1,10 @@
 # 🎓 Website Pendaftaran Beasiswa Mahasiswa
 
-Website ini dibuat untuk memenuhi persyaratan ujian sertifikasi BNSP Junior Web Development Januari 2024 oleh Mochamad Naufal Shofy, NPM: 207064516090, Jurusan Informatika, Universitas Nasional Jakarta.
+Website ini dibuat untuk memenuhi persyaratan ujian sertifikasi BNSP Junior Web Development Januari 2024.
 
 ## 📜 Deskripsi Proyek
 
-Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasiswa. Proyek ini mencakup sisi client dan admin, serta menggunakan teknologi HTML, CSS, Bootstrap, PHP, MySQL, dan XAMPP.
+Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasiswa. Proyek ini mencakup sisi client dan admin, serta menggunakan teknologi HTML, CSS, Bootstrap, PHP (native), MySQL, dan XAMPP.
 
 
 #### 👨‍🎓 Sisi Client
@@ -31,7 +31,7 @@ Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasisw
 
 ## 👥 Kontributor
 
-- **Mochamad Naufal Shofy** - Pengembang Utama
+- **Mochamad Naufal Shofy** - Pengembang Utama.
 
 ## 📬 Kontak
 
