@@ -14,15 +14,3 @@ Berikut adalah deskripsi singkat dari kolom yang ada pada file `Data_Mahasiswa.c
 
 ## Cara Menggunakan
 Anda dapat menggunakan data ini untuk melakukan analisis akademik, membuat laporan, atau mengembangkan aplikasi yang membutuhkan informasi mahasiswa. Untuk membaca file CSV ini, Anda bisa menggunakan bahasa pemrograman seperti Python, R, atau software seperti Excel.
-
-## Contoh Penggunaan di Python
-Berikut adalah contoh kode Python untuk membaca data `Data_Mahasiswa.csv` menggunakan pandas:
-
-```python
-import pandas as pd
-
-# Membaca file CSV
-data = pd.read_csv('Data_Mahasiswa.csv')
-
-# Menampilkan beberapa baris pertama dari data
-print(data.head())
