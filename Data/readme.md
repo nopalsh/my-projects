@@ -13,4 +13,4 @@ Berikut adalah deskripsi singkat dari kolom yang ada pada file `Data_Mahasiswa.c
 - **Kolom 5**: IPK - Indeks Prestasi Kumulatif, menunjukkan performa akademik mahasiswa.
 
 ## Cara Menggunakan
-kamu dapat menggunakan data ini untuk melakukan analisis akademik, membuat laporan, atau mengembangkan aplikasi yang membutuhkan informasi mahasiswa. Untuk membaca file CSV ini, kamu bisa menggunakan bahasa pemrograman seperti Python, R, atau software seperti Excel.
+Kamu dapat menggunakan data ini untuk melakukan analisis akademik, membuat laporan, atau mengembangkan aplikasi yang membutuhkan informasi mahasiswa. Untuk membaca file CSV ini, kamu bisa menggunakan bahasa pemrograman seperti Python, R, atau software seperti Excel.
